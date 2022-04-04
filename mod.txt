@@ -28,16 +28,16 @@
 	],
 	"keybinds": [
 		{
-			"keybind_id": "bjcwp_setwaypoint",
+			"keybind_id": "waypoint",
 			"name": "Set Waypoint",
-			"description": "Set a custom waypoint.",
+			"description": "custom waypoint.",
 			"script_path": "keybinds/placewaypoint.lua",
 			"run_in_menu": false,
 			"run_in_game": true,
 			"localized": false
 		},
 		{
-			"keybind_id": "bjcwp_removewaypoint",
+			"keybind_id": "removewaypoint",
 			"name": "Remove Waypoint",
 			"description": "Remove your custom waypoint.",
 			"script_path": "keybinds/removewaypoint.lua",

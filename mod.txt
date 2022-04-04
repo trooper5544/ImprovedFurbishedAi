@@ -46,9 +46,9 @@
 			"localized": false
 		},
 		{
-			"keybind_id": "bjcwp_hidepeerwaypoints",
-			"name": "Hide Peer Waypoints",
-			"description": "When pressed, instantly hides all active waypoints sent by peers.",
+			"keybind_id": "peerwaypoints",
+			"name": "Peer Waypoints",
+			"description": "hides all active waypoints sent by peers.",
 			"script_path": "keybinds/hidepeerwaypoints.lua",
 			"run_in_menu": false,
 			"run_in_game": true,
